@@ -8,7 +8,7 @@
         <!--First View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="FirstViewController" customModule="ViewTrans1" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="FirstViewController" customModule="InteractiveAnimationDemo" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -52,7 +52,7 @@
         <!--Second View Controller-->
         <scene sceneID="QSh-Ye-CD2">
             <objects>
-                <viewController id="wfH-Xs-xOu" customClass="SecondViewController" customModule="ViewTrans1" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="wfH-Xs-xOu" customClass="SecondViewController" customModule="InteractiveAnimationDemo" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="1dT-uA-iO6"/>
                         <viewControllerLayoutGuide type="bottom" id="1dm-xn-Hi1"/>
