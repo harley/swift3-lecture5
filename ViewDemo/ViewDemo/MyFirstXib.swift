@@ -20,12 +20,7 @@ class MyFirstXib: UIView {
     }
 
     func initSubviews() {
-        let nib = UINib(nibName: "MyFirstXib", bundle: nil)
-        let objects = nib.instantiateWithOwner(self, options: nil)
-        let label = objects[0] as! UILabel
-        let view2 = objects[1] as! UIView
-        view2.frame.origin.y += 300
-        addSubview(label)
-        addSubview(view2)
+        // code to load subviews from nib here
+        // ...
     }
 }
